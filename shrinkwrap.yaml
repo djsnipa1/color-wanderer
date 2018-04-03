@@ -2515,6 +2515,7 @@ packages:
       node: '>=0.8.0'
     name: uglify-es
     resolution:
+      registry: 'https://registry.npmjs.org/'
       tarball: 'https://codeload.github.com/mishoo/UglifyJS2/tar.gz/569757d14dbbe04f66af65d7bf0600b3a75efd96'
     version: 3.3.10
 registry: 'https://registry.npmjs.org/'
